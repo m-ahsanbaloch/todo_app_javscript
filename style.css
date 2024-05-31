@@ -99,3 +99,6 @@ ul li span:hover{
     background-color: #edeef0;
     border-radius: 50%;
 }
+.date{
+    color: red;
+}
